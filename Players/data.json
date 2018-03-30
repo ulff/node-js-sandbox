@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Robert Lewandowski",
+    "role": "Striker",
+    "age": 29,
+    "skill": 91,
+    "cost": 0,
+    "country": "Poland",
+    "league": "Bundesliga",
+    "club": "Bayern Munchen"
+  },
+  {
+    "name": "Neymar",
+    "role": "Left midfielder",
+    "age": 26,
+    "skill": 92,
+    "cost": 222000000,
+    "country": "Brazil",
+    "league": "League 1",
+    "club": "Paris Saint-Germain"
+  },
+  {
+    "name": "Harry Kane",
+    "role": "Striker",
+    "age": 24,
+    "skill": 88,
+    "cost": 0,
+    "country": "England",
+    "league": "Premier League",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "name": "Lionel Messi",
+    "role": "Right Winger",
+    "age": 30,
+    "skill": 94,
+    "cost": 0,
+    "country": "Argentina",
+    "league": "Primera Division",
+    "club": "FC Barcelona"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "role": "Left Striker",
+    "age": 33,
+    "skill": 94,
+    "cost": 400000000,
+    "country": "Portugal",
+    "league": "Primera Division",
+    "club": "Real Madrit"
+  },
+  {
+    "name": "Paulo Dybala",
+    "role": "Central Offensive Midfielder",
+    "age": 24,
+    "skill": 89,
+    "cost": 0,
+    "country": "Argentina",
+    "league": "Serie A",
+    "club": "Juventus FC"
+  },
+  {
+    "name": "Marco Asensio",
+    "role": "Left Winger",
+    "age": 22,
+    "skill": 84,
+    "cost": 0,
+    "country": "Spain",
+    "league": "Primera Division",
+    "club": "Real Madrit"
+  },
+  {
+    "name": "Dele Alli",
+    "role": "Central Offensive Midfielder",
+    "age": 21,
+    "skill": 84,
+    "cost": 0,
+    "country": "England",
+    "league": "Premier League",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "name": "Eden Hazard",
+    "role": "Left Striker",
+    "age": 27,
+    "skill": 91,
+    "cost": 0,
+    "country": "Belgium",
+    "league": "Premier League",
+    "club": "Chelsea London"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "role": "Right Winger",
+    "age": 19,
+    "skill": 84,
+    "cost": 180000000,
+    "country": "France",
+    "league": "League 1",
+    "club": "Paris Saint-Germain"
+  },
+  {
+    "name": "Christian Eriksen",
+    "role": "Central Offensive Midfielder",
+    "age": 26,
+    "skill": 88,
+    "cost": 0,
+    "country": "Denmark",
+    "league": "Premier League",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "name": "Marcelo",
+    "role": "Left Defender",
+    "age": 29,
+    "skill": 87,
+    "cost": 0,
+    "country": "Brasil",
+    "league": "Primera Division",
+    "club": "Real Madrit"
+  },
+  {
+    "name": "Thibaut Courtois",
+    "role": "Goalkeeper",
+    "age": 25,
+    "skill": 89,
+    "cost": 0,
+    "country": "Belgium",
+    "league": "Premier League",
+    "club": "Chelsea London"
+  },
+  {
+    "name": "Piotr Zielinski",
+    "role": "Central Midfielder",
+    "age": 23,
+    "skill": 80,
+    "cost": 0,
+    "country": "Poland",
+    "league": "Serie A",
+    "club": "Napoli"
+  },
+  {
+    "name": "Kamil Glik",
+    "role": "Central Defender",
+    "age": 30,
+    "skill": 85,
+    "cost": 0,
+    "country": "Poland",
+    "league": "League 1",
+    "club": "AS Monaco"
+  },
+  {
+    "name": "Wojciech Szczęsny",
+    "role": "Goalkeeper",
+    "age": 27,
+    "skill": 83,
+    "cost": 0,
+    "country": "Poland",
+    "league": "Serie A",
+    "club": "Juventus FC"
+  },
+  {
+    "name": "David De Gea",
+    "role": "Goalkeeper",
+    "age": 27,
+    "skill": 91,
+    "cost": 0,
+    "country": "Spain",
+    "league": "Premier League",
+    "club": "Manchester United"
+  },
+  {
+    "name": "Manuel Neuer",
+    "role": "Goalkeeper",
+    "age": 31,
+    "skill": 92,
+    "cost": 0,
+    "country": "Germany",
+    "league": "Bundesliga",
+    "club": "Bayern Munchen"
+  },
+  {
+    "name": "Luis Suarez",
+    "role": "Striker",
+    "age": 31,
+    "skill": 92,
+    "cost": 0,
+    "country": "Uruguay",
+    "league": "Primera Division",
+    "club": "FC Barcelona"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "role": "Central Offensive Midfielder",
+    "age": 26,
+    "skill": 91,
+    "cost": 0,
+    "country": "Belgium",
+    "league": "Premier League",
+    "club": "Manchester City"
+  },
+  {
+    "name": "Gonzalo Higuain",
+    "role": "Striker",
+    "age": 30,
+    "skill": 90,
+    "cost": 0,
+    "country": "Argentina",
+    "league": "Serie A",
+    "club": "Juventus FC"
+  },
+  {
+    "name": "Mats Hummels",
+    "role": "Central Defender",
+    "age": 29,
+    "skill": 89,
+    "cost": 0,
+    "country": "Germany",
+    "league": "Bundesliga",
+    "club": "Bayern Munchen"
+  },
+  {
+    "name": "Sergio Aguero",
+    "role": "Striker",
+    "age": 29,
+    "skill": 89,
+    "cost": 0,
+    "country": "Argentina",
+    "league": "Premier League",
+    "club": "Manchester City"
+  },
+  {
+    "name": "Diego Godin",
+    "role": "Central Defender",
+    "age": 32,
+    "skill": 88,
+    "cost": 0,
+    "country": "Uruguay",
+    "league": "Primera Division",
+    "club": "Atletico Madrit"
+  },
+  {
+    "name": "Edinson Cavani",
+    "role": "Striker",
+    "age": 31,
+    "skill": 88,
+    "cost": 0,
+    "country": "Uruguay",
+    "league": "League 1",
+    "club": "Paris Saint-Germain"
+  },
+  {
+    "name": "Gareth Bale",
+    "role": "Right Winger",
+    "age": 28,
+    "skill": 88,
+    "cost": 0,
+    "country": "Wales",
+    "league": "Primera Division",
+    "club": "Real Madrit"
+  },
+  {
+    "name": "Lorenzo Insigne",
+    "role": "Left Winger",
+    "age": 26,
+    "skill": 87,
+    "cost": 0,
+    "country": "Italy",
+    "league": "Serie A",
+    "club": "Napoli"
+  },
+  {
+    "name": "Marco Veratti",
+    "role": "Central Defensive Midfielder",
+    "age": 25,
+    "skill": 87,
+    "cost": 0,
+    "country": "Italy",
+    "league": "Serie A",
+    "club": "Paris Saint-Germain"
+  },
+  {
+    "name": "Pierre-Emerick Aubameyang",
+    "role": "Striker",
+    "age": 28,
+    "skill": 87,
+    "cost": 0,
+    "country": "Gabon",
+    "league": "Premier League",
+    "club": "Arsenal London"
+  },
+  {
+    "name": "Mohamed Salah",
+    "role": "Right Winger",
+    "age": 25,
+    "skill": 86,
+    "cost": 0,
+    "country": "Egypt",
+    "league": "Premier League",
+    "club": "Liverpool FC"
+  }
+]
