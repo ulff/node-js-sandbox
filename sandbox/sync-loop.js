@@ -39,14 +39,14 @@ async function withFor() {
 }
 
 async function withReduce() {
-    await iterable.reduce(
+    return iterable.reduce(
         (current, next) => current.then(() => makeStep(next, 'reduce')),
         Promise.resolve(),
     );
 }
 
 async function withMap() {
-    await Promise.all(iterable.map(async (item) => {
+    return Promise.all(iterable.map(async (item) => {
         await makeStep(item, 'map')
     }));
 }
